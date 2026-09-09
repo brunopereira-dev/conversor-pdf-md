@@ -1,0 +1,2 @@
+Leia SPEC-pdf-to-md.md e implemente o conversor conforme a especificação.
+
