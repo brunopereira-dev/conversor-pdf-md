@@ -28,6 +28,9 @@
 *.nupkg
 packages/
 
+# Saída da conversão
+/output/
+
 # Sistema operacional
 Thumbs.db
 Desktop.ini
