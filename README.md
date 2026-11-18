@@ -104,3 +104,7 @@ O projeto foi construído com **desenvolvimento orientado a especificação**, c
 - a implementação foi gerada com o [Claude Code](https://claude.com/claude-code) a partir dessas duas fontes, e revisada por mim.
 
 A lição principal foi que a qualidade do resultado acompanha a precisão da especificação: um formato bem definido e validações objetivas valem mais do que um prompt longo.
+
+## Licença
+
+[MIT](LICENSE). O PdfPig, usado para ler os PDFs, tem a sua própria licença (Apache 2.0).
